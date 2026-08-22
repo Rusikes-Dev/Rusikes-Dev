@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+YOUR_NAME;Software+Developer;CS+Undergrad+%40+VIT+Pune;Always+building+something." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+RUSHIKESH;Software+Developer;CS+Undergrad+%40+VIT+Pune;Always+building+something." alt="Typing SVG" />
 
 <p>
   <a href="https://fileforgetools.in/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
