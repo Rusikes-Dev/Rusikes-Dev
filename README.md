@@ -61,16 +61,32 @@ Pursuing B.tech Computer Science at **VIT Pune**, focused on building clean, fun
 
 ## GitHub Stats
 
-<div align="center">
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api?username=Rusikes-Dev&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Rusikes-Dev&theme=github-dark&hide_border=true" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rusikes-Dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rusikes-Dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rusikes-Dev&theme=github_dark" alt="Languages by Repository" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rusikes-Dev&theme=github_dark" alt="Languages by Commit" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Rusikes-Dev&theme=github-dark&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rusikes-Dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Rusikes-Dev?label=Followers&style=flat" alt="Followers" />
+</p>
 
 ---
 
