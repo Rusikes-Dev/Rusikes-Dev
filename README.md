@@ -63,7 +63,7 @@ Pursuing B.tech Computer Science at **VIT Pune**, focused on building clean, fun
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rusikes-Dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rusikes-Dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rusikes-Dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 <br/>
