@@ -52,10 +52,10 @@ Pursuing B.tech Computer Science at **VIT Pune**, focused on building clean, fun
 
 ## Featured Projects
 
-| Project | Description | Links |
+| Project | Description | Tech | Links |
 | :--- | :--- | :--- | :--- |
-| **FILE FORGE TOOLS** | Convert Files in your own browser. | [Live](https://www.fileforgetools.in/) |
-| **MHT CET College Predictor** | Find college according to your rank. | [Live](https://cet-college-predictor-five.vercel.app/) |
+| **File Forge Tools** | Browser-based file conversion — everything runs client side, so files never leave your machine. | `JavaScript` `HTML` `CSS` | [Live](https://www.fileforgetools.in/) |
+| **MHT CET College Predictor** | Predicts eligible engineering colleges from a student's CET rank and category. | `React` `Tailwind` | [Live](https://cet-college-predictor-five.vercel.app/) |
 
 ---
 
@@ -63,16 +63,12 @@ Pursuing B.tech Computer Science at **VIT Pune**, focused on building clean, fun
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rusikes-Dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rusikes-Dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&column=7&margin-w=10" />
+<img src="https://streak-stats.demolab.com?user=Rusikes-Dev&theme=github-dark&hide_border=true" />
 
 </div>
 
