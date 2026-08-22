@@ -1,4 +1,3 @@
-[README (2).md](https://github.com/user-attachments/files/31339723/README.2.md)
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+YOUR_NAME;Software+Developer;CS+Undergrad+%40+VIT+Pune;Always+building+something." alt="Typing SVG" />
