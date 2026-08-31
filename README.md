@@ -5,7 +5,7 @@
 <p>
   <a href="https://fileforgetools.in/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://linkedin.com/in/rushikeshlade7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rushikeshlade3014s@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:rushikeshlade7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
@@ -19,7 +19,7 @@ Pursuing B.tech Computer Science at **VIT Pune**, focused on building clean, fun
 - Currently working on — **File Forge Tools**
 - Currently learning — **Blockchain and Web3**
 - Open to — internships, open-source contributions, and collaboration
-- Reach me at — **rushikeshlade3014s@gmail.com**
+- Reach me at — **rushikeshlade7@gmail.com**
 
 ---
 
